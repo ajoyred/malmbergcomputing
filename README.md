@@ -1,2 +1,2 @@
 # GNSC3301malmbergcomputing
-gnsc-3301-A computing for science II 
+Repository created for gnsc-3301-A computing for science majors II 

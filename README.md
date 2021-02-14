@@ -1,2 +1,2 @@
-# malmbergcomputing
-gnsc-3301-A computing for science II
+# GNSC3301malmbergcomputing
+gnsc-3301-A computing for science II 
